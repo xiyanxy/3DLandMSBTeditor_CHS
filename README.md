@@ -5,7 +5,7 @@ Notice: [For a more advanced and complete MSBT solution, check out Kuriimu.](htt
 
 Origin: [IcySon55](https://github.com/IcySon55/3DLandMSBTeditor)
 
-ºº»¯: [êØÑÕXY](https://github.com/xiyanxy)
+æ±‰åŒ–: [æ›¦é¢œXY](https://github.com/xiyanxy)
 
 ### Supported MSBT Sections
 * LBL1 - Full support
